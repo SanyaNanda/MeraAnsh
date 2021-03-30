@@ -7,7 +7,7 @@
 {% for post in object_list %}
 {% if user.id == post.reciever.id %}	
 <li>
-	<b>{{ post.title }}</b> by <b>{{ post.author }}</b> on <small> {{ post.post_date }}</small>
+	<b>{{ post.title }}</b> by <b>Dr. {{ post.author }}</b> on <small> {{ post.post_date }}</small>
 	<br><br>
 	{{ post.body|safe }}
 	<hr>
