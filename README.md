@@ -7,6 +7,7 @@
 3. [Features](#features)
 4. [Tech](#tech)
 5. [Future Aspects](#future-aspects)
+6. [Contributors](#contributors)
 
 ## Why MeraAnsh
 
@@ -33,8 +34,7 @@ We propose a solution under <br>
 <img src="./assets/sdg5.png" width=300;>
 </p>
 
-**MeraAnsh is a platform that bridges the gap between doctors and users who want to commence or are a part of the beautiful excursion of parenthood.**
-
+**MeraAnsh is a platform that bridges the gap between doctors and users who want to commence or are a part of the beautiful excursion of parenthood.** 
 
 ## Features
 
@@ -42,9 +42,11 @@ We propose a solution under <br>
 
 - Html
 - CSS
-- JavaScript
-- jQuery
 - Bootstrap
 - Django
 
 ## Future Aspects
+
+## Contributors
+
+![Contributors](https://contrib.rocks/image?repo=SanyaNanda/MeraAnsh "Our Contributors")
