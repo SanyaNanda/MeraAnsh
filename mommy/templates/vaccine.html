@@ -1,6 +1,10 @@
 {% extends 'base.html' %}
+{% load static %}
 {% block content %}
 <div class="container">
 <h2>Get timely vaccination and stay healthy</h2>
+<iframe src="{% static 'mommy/pdf/IMMUNISATION.pdf' %}" type="application/pdf" height="1000px" width="1000">
+	</iframe>
+	<hr>
 </div>
 {% endblock %}
