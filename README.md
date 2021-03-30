@@ -9,7 +9,7 @@
 5. [Future Aspects](#future-aspects)
 6. [Contributors](#contributors)
 
-## Why MeraAnsh
+## Why MeraAnsh?
 
 ***A snapshot of incredible delight is the thing that a mother feels when an infant is put on her arms – a delight each mother ought to reserve the option to encounter. Be that as it may, for some pregnant ladies in India this memory won't ever become, the snapshot of birth is often alarming.*** 
 
@@ -34,9 +34,11 @@ We propose a solution under <br>
 <img src="./assets/sdg5.png" width=300;>
 </p>
 
-**MeraAnsh is a platform that bridges the gap between doctors and users who want to commence or are a part of the beautiful excursion of parenthood.** 
+**MeraAnsh is a platform that aims to bridge the gap between doctors and users who want to commence or become  a part of the beautiful excursion of parenthood. We aim to build a one stop destination for all queries one can possibly encounter during this rollercoaster phase of life. From pre to post, MeraAnsh is dedicated to remain a constant. A virtual journal you would want to track and cherish years later!** 
+MeraAnsh is a combination of two hindi words i.e Mera which means "mine"/"my" and Ansh that means "a part of" which ultimately conveys a message that a child is the soul/a part of mother.
 
 ## Features
+-
 
 ## Tech
 
