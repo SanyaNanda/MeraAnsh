@@ -22,10 +22,13 @@ All ladies need admittance to antenatal consideration in pregnancy, skilled care
 Keeping the problems stated above in mind.
 We propose a solution under <br>
 -SDG 3 ***Good health and well-being*** <br>
+
 <p align="center">
 <img src="./assets/sdg3.png" width=300;>
 </p>
+
 -SDG 5 ***Achieve gender equality and empower all women and girls*** <br>
+
 <p align="center">
 <img src="./assets/sdg5.png" width=300;>
 </p>
