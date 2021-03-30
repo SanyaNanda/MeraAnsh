@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block content %}
+<div class="container">
+{% if user.is_authenticated %}
+<ul style="list-style-type: none;">
+{% for post in object_list %}
+{% if user.id == post.reciever.id %}	
+<li>
+	<b>{{ post.title }}</b> by <b>{{ post.author }}</b> on <small> {{ post.post_date }}</small>
+	<br><br>
+	{{ post.body|safe }}
+	<hr>
+</li>
+{% endif %}
+{% endfor %}
+</ul>
+{% endif %}
+</div>
+{% endblock %}
