@@ -11,10 +11,11 @@
 
 ## Why MeraAnsh?
 
-***A moment of incredible delight is the thing that a mother feels when an infant is put on her arms – a delight each mother ought to experience. Be that as it may, for some pregnant ladies in India this memory is never lived,the moment of giving birth is often alarming.All ladies need admittance to antenatal consideration in pregnancy, skilled care during labor, and support and backing in the weeks after labor. All births should be assissted by skilled health experts, as convenient administration and treatment can have the effects on the life and passing of both the mother and the child.
-*** 
 
-A lot of 
+***A moment of incredible delight is the thing that a mother feels when an infant is put on her arms – a delight each mother ought to experience. Be that as it may, for some pregnant ladies in India this memory is never lived,the moment of giving birth is often alarming.All ladies need admittance to antenatal consideration in pregnancy, skilled care during labor, and support and backing in the weeks after labor. All births should be assissted by skilled health experts, as convenient administration and treatment can have the effects on the life and passing of both the mother and the child.***
+ 
+
+
 
 
 ## About MeraAnsh
@@ -37,12 +38,12 @@ We propose a solution under <br>
 MeraAnsh is a combination of two hindi words i.e Mera which means "mine"/"my" and Ansh that means "a part of" which ultimately conveys a message that a child is the soul/a part of mother.
 
 ## Features
--Different portals for different users (like Doctor and Parent)
--Doctor can upload patient’s reports,ultrasounds images,etc and can prescribe required medicines
--Parents can view the report and respond personally
--Covers every important information about vaccines recommended for a newborn along with their schedules
--Details about Child Healthcare and Educational Insurance Policies
--Plus details about Government Policies and Schemes(in India and globally too)
+-Different portals for different users (like Doctor and Parent) <br>
+-Doctor can upload patient’s reports,ultrasounds images,etc and can prescribe required medicines <br>
+-Parents can view the report and respond personally <br>
+-Covers every important information about vaccines recommended for a newborn along with their schedules <br>
+-Details about Child Healthcare and Educational Insurance Policies <br>
+-Plus details about Government Policies and Schemes(in India and globally too) <br>
 
 
 ## Tech
@@ -53,17 +54,18 @@ MeraAnsh is a combination of two hindi words i.e Mera which means "mine"/"my" an
 - Django
 
 ## Future Aspects
--Due date calculator
-- Personalized diet chart, exercise plan
-- Journal the entire journey from the day you received the news, first kick to first giggles.
--Timely reminders about what the baby should be doing at particular stages
--Medicine can be ordered directly from the site or app.
--Meditation and other recreational activities for parents for mental peace.
-- A dedicated section for expenses and a reminder of installments/insurances if any.
--Baby name finder
--Community for women to share their experience.
--Babysitters near me.
--Google calender meeting reminders between user and client
+
+- Due date calculator <br>
+- Personalized diet chart, exercise plan <br>
+- Journal the entire journey from the day you received the news, first kick to first giggles. <br>
+- Timely reminders about what the baby should be doing at particular stages <br>
+- Medicine can be ordered directly from the site or app. <br>
+- Meditation and other recreational activities for parents for mental peace. <br>
+- A dedicated section for expenses and a reminder of installments/insurances if any. <br>
+- Baby name finder <br>
+- Community for women to share their experience. <br>
+- Babysitters near me. <br>
+- Google calender meeting reminders between user and client. <br>
 
 
 ## Contributors
