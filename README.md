@@ -28,9 +28,6 @@ The situation is **worse in rural areas.** The study painted an even gloomier pi
 Checkups for mother and child in the two months after birth are also seen as important by health care professionals, particularly when deliveries do not take place in a health facility. The majority of maternal deaths take place after delivery, most of them within 24 hours after childbirth. Postpartum care allows health workers to detect and manage problems and to make sure mother and child are doing well.
 
 
-
-
-
 ## About MeraAnsh
 
 Keeping the problems stated above in mind.
@@ -49,7 +46,10 @@ We propose a solution under <br>
 </p>
 
 **MeraAnsh is a platform that aims to bridge the gap between doctors and users who want to commence or become  a part of the beautiful excursion of parenthood. We aim to build a one stop destination for all queries one can possibly encounter during this rollercoaster phase of life. From pre to post, MeraAnsh is dedicated to remain a constant. A virtual journal you would want to track and cherish years later!** <br>
-MeraAnsh is a combination of two hindi words i.e Mera which means "mine"/"my" and Ansh that means "a part of" which ultimately conveys a message that a child is the soul/a part of mother.
+
+MeraAnsh is a combination of two hindi words i.e Mera which means "mine"/"my" and Ansh that means "a part of" which ultimately conveys a message that a child is the soul/a part of mother. <br>
+
+**It aids in overcoming barriers such as long distances to health centers.**
 
 ## Features
 -Different portals for different users (like Doctor and Parent) <br>
