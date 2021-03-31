@@ -9,7 +9,7 @@
 3. [Features](#features)
 4. [Tech](#tech)
 5. [Future Aspects](#future-aspects)
-6. [Contributors](#contributors)
+
 
 
 ## Why MeraAnsh?
@@ -62,8 +62,8 @@ MeraAnsh is a combination of two hindi words i.e Mera which means "mine"/"my" an
 
 ## Tech
 
-- Html
-- CSS
+- HTML
+- Cascading Style Sheets
 - Bootstrap
 - Django
 
@@ -82,6 +82,3 @@ MeraAnsh is a combination of two hindi words i.e Mera which means "mine"/"my" an
 - Google calender meeting reminders between user and client. <br>
 
 
-## Contributors
-
-![Contributors](https://contrib.rocks/image?repo=SanyaNanda/MeraAnsh "Our Contributors")
